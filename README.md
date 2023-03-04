@@ -44,7 +44,7 @@ I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/), currently working as a 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 
-![Github Resume](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azmi-floo&theme=monokai)
+![Github Resume](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azmi-floo&theme=vue)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=azmi-floo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachrizadaus&langs_count=8&layout=compact)
