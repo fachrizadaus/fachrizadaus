@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=2500&pause=1000&color=FF8787&vCenter=true&width=435&lines=I'm+Software+Developer;I'm+Freelancer;I'm+UI%2FUX+Designer;I'm+Photographer)
 
-I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/), currently working as a Lead Web Developer at [Floo Integra Digital](https://floo.co.id/). I am a software engineer with a focus on website development. Have expertise and experience with website development technologies such as PHP, JS, and many others. In addition, I also have certification and teaching experience obtained from college in the department of informatics education at Malang State University. To find out more about me & feel free to connect with me here:
+I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://github.com/azmi-floo), currently working as a Lead Web Developer at [Floo Integra Digital](https://floo.co.id/). I am a software engineer with a focus on website development. Have expertise and experience with website development technologies such as PHP, JS, and many others. In addition, I also have certification and teaching experience obtained from college in the department of informatics education at Malang State University. To find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmi-fachriza/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fachrizaazmi@gmail.com)
