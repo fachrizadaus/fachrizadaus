@@ -8,6 +8,7 @@ I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://gi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachriza_daus/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
 ](https://twitter.com/AzmiFachriza)
+<!-- [![Notion](https://img.shields.io/badge/My%20Notion%20Profile-%2337352F.svg?style=flat&logo=Notion&logoColor=white)](https://fachrizadaus.notion.site/Hi-I-m-Azmi-Fachriza-Firdaus-75059b5968024d1fbddde3524e89de37) -->
 
 
 ## ⚡ Technologies
@@ -17,6 +18,7 @@ I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://gi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![React](https://img.shields.io/badge/React-%2335495e.svg?style=flat&logo=react&logoColor=%2361dbfb)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,7 +32,7 @@ I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://gi
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
