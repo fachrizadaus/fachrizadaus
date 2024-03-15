@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF8787&vCenter=true&random=false&width=435&lines=I+am+Web+Enthusiast;I+am+Software+Developer;I+am+Freelancer;I+am+Photographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF8787&vCenter=true&random=false&width=435&lines=I+am+a+Web+Enthusiast;I+am+a+Software+Developer;I+am+a+Freelancer;I+am+a+Photographer)](https://git.io/typing-svg)
 
 I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://github.com/azmi-floo), currently working as a Lead Developer and Project Manager at [PT. Floo Integra Digital](https://floo.id/). I am a software engineer with a focus on website development. Have expertise and experience with website development technologies such as PHP, JS, and many others. In addition, I also have certification and teaching experience obtained from college in the department of informatics education at Malang State University. To find out more about me & feel free to connect with me here:
 
