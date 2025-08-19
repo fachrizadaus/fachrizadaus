@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FF8787&vCenter=true&random=false&width=435&lines=I+am+a+Web+Enthusiast;I+am+a+Software+Developer;I+am+a+Freelancer;I+am+a+Photographer)](https://git.io/typing-svg)
 
-I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://github.com/azmi-floo), currently working as a Lead Developer and Project Manager at [PT. Floo Integra Digital](https://floo.id/). I am a software engineer with a focus on website development. Have expertise and experience with website development technologies such as PHP, JS, and many others. In addition, I also have certification and teaching experience obtained from college in the department of informatics education at Malang State University. To find out more about me & feel free to connect with me here:
+I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/), currently working as a Backend Engineer at [Wowrack](https://wowrack.com). I am a software engineer with a focus on website development. Have expertise and experience with website development technologies such as PHP, JS/TS, and many others. In addition, I also have certification and teaching experience obtained from college in the department of informatics education at Malang State University. To find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmi-fachriza/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:fachrizaazmi@gmail.com)
@@ -14,15 +14,12 @@ I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://gi
 
 ## 🛠 Languages
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 
 ## ⚡ Technologies
 
@@ -78,12 +75,3 @@ I am [Azmi Fachriza Firdaus](https://fachrizadaus.com/) [(azmi-floo)](https://gi
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-## 🔥 My Stats
-
-![Github Resume](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azmi-floo&theme=vue)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=azmi-floo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachrizadaus&langs_count=8&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fachrizadaus)
